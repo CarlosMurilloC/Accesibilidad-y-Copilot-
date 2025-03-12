@@ -41,7 +41,7 @@
 
 ![alt text](imagen-8.png)
 
-# Consulta con Claude
+# Consulta con Claude y ChatGPT  
 
 ![alt text](imagen-9.png)
 
@@ -91,6 +91,6 @@ ________________________________________________________________________________
 
 ![alt text](imagen-8.png)
 
-# Consultation with Claude
+# Consultation with Claude and ChatGPT
 
 ![alt text](imagen-10.png)
