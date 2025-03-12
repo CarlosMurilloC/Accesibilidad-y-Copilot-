@@ -41,7 +41,7 @@
 
 ![alt text](imagen-8.png)
 
-# Consulta con copilot
+# Consulta con Claude
 
 ![alt text](imagen-9.png)
 
@@ -91,6 +91,6 @@ ________________________________________________________________________________
 
 ![alt text](imagen-8.png)
 
-# Consultation with Copilot
+# Consultation with Claude
 
 ![alt text](imagen-10.png)
